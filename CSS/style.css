@@ -1,0 +1,38 @@
+body{
+    font-family: "Inter", sans-serif;
+    text-align: center ;
+   /* background-image: url(/IMAGES/balls-decoration.svg);*/
+}
+#hero{
+    width:590px;
+    margin:0 auto 72px
+    
+}
+#hero img{
+    margin-bottom:72px;
+
+}
+
+h1{
+    font-family: "Inter", sans-serif;
+    font-size: 50px;
+    line-height: 57px;
+    font-weight:normal;
+}
+h1 b{
+    color: #FF9900;
+    font-weight:bold;
+}
+span, a{
+    color:#FF9900;
+}
+
+p{
+    color:gray;
+    font-size: 14px;
+    line-height:28px;
+}
+a + a{
+    margin-left:28px;
+    
+}
